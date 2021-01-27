@@ -36,6 +36,7 @@ namespace Busca
             Regex rx = new Regex($"{palavra}",RegexOptions.IgnoreCase);
             MatchCollection matches = rx.Matches(arquivoHtml);
             Console.WriteLine("{0} correspondências encontradas em :\n g1.globo.br\n",matches.Count);
+            
             Console.WriteLine("Digite a palavra a ser buscada\nDigite sair para encerrar");
             palavra = Console.ReadLine();
             }

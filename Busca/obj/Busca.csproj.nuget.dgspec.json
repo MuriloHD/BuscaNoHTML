@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Murilo Henrique\\Desktop\\Busca\\Busca.csproj": {}
+    "C:\\Users\\Murilo Henrique\\Desktop\\BuscaNoHTML\\Busca\\Busca.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Murilo Henrique\\Desktop\\Busca\\Busca.csproj": {
+    "C:\\Users\\Murilo Henrique\\Desktop\\BuscaNoHTML\\Busca\\Busca.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Murilo Henrique\\Desktop\\Busca\\Busca.csproj",
+        "projectUniqueName": "C:\\Users\\Murilo Henrique\\Desktop\\BuscaNoHTML\\Busca\\Busca.csproj",
         "projectName": "Busca",
-        "projectPath": "C:\\Users\\Murilo Henrique\\Desktop\\Busca\\Busca.csproj",
+        "projectPath": "C:\\Users\\Murilo Henrique\\Desktop\\BuscaNoHTML\\Busca\\Busca.csproj",
         "packagesPath": "C:\\Users\\Murilo Henrique\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Murilo Henrique\\Desktop\\Busca\\obj\\",
+        "outputPath": "C:\\Users\\Murilo Henrique\\Desktop\\BuscaNoHTML\\Busca\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Murilo Henrique\\AppData\\Roaming\\NuGet\\NuGet.Config"
